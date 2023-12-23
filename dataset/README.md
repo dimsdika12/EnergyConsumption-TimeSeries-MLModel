@@ -4,7 +4,7 @@ This dataset contains the hourly energy consumption data for the PJM (Pennsylvan
 
 About the Dataset
 --
-**Dataset Name:** PJM West Region Hourly Energy Consumption Data
+**Dataset Name:** PJMWest_hourly
 
 **Region:** PJM West
 
